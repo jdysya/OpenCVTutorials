@@ -1,0 +1,26 @@
+{
+  "defaultViewMode": "source",
+  "attachmentFolderPath": "./attachments",
+  "newFileLocation": "current",
+  "newFileFolderPath": "学习",
+  "legacyEditor": false,
+  "showUnsupportedFiles": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "promptDelete": false,
+  "livePreview": true,
+  "communityThemeSortOrder": "download",
+  "trashOption": "local",
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "newLinkFormat": "relative",
+  "vimMode": false,
+  "showFrontmatter": true
+}

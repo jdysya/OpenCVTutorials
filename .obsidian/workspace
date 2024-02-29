@@ -1,0 +1,207 @@
+{
+  "main": {
+    "id": "e9d83dec5f664c10",
+    "type": "split",
+    "children": [
+      {
+        "id": "fce5d1d3be9e7f56",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "个人空间/洛谷/入门/P1014-Cantor 表.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3decb3823caaacef",
+    "type": "split",
+    "children": [
+      {
+        "id": "5220c588d10cd0b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c00ba5961b9895b5",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "73a30c4a5c8998a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#excalidraw",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e8b849b2e12d40fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 257.5055618286133
+  },
+  "right": {
+    "id": "b452cc448856392e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cfe3b434e5be53a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e430bfa4cb675604",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "个人空间/洛谷/入门/P1014-Cantor 表.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 0.602564102564103,
+                  "lineSizeMultiplier": 5,
+                  "collapse-forces": false,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 159,
+                  "scale": 1.1926365245599424,
+                  "close": true
+                }
+              }
+            }
+          },
+          {
+            "id": "979c3fed6bb9995b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "个人空间/洛谷/入门/P1014-Cantor 表.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d68a4f4780b55ca5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a629fc72062b2e2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "个人空间/洛谷/入门/P1014-Cantor 表.md"
+              }
+            }
+          },
+          {
+            "id": "ed26aaf4aecef7be",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "quiet-outline",
+              "state": {},
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "cfe4511fe061c5e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "639b8fc717b1dcf9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "个人空间/洛谷/入门/P1014-Cantor 表.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a406864208d68af6",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 274.03411865234375,
+    "collapsed": true
+  },
+  "active": "fce5d1d3be9e7f56",
+  "lastOpenFiles": [
+    "个人空间/各种bug/flarum/flarum代码风格的修改.md",
+    "个人空间/各种bug/flarum/flarum的中文优化.md",
+    "个人空间/一些开源库（工具）的使用/aliat/alist无法预览PDF的解决方案.md",
+    "个人空间/个人空间.md",
+    "学习/python/python笔记.md",
+    "学习/python/python习题.md",
+    "学习/操作系统/第一章 计算机系统概述.md",
+    "学习/学习.md",
+    "flarum临时编辑器.md",
+    "问题pdf.md"
+  ]
+}

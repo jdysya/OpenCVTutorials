@@ -1,0 +1,162 @@
+/* .nav-file-title, .nav-folder-title {
+    display: flex;
+    border: 1px solid transparent;
+    border-radius: 3px;
+    cursor: pointer;
+    color: var(--text-muted);
+    font-size: 18px;
+    line-height: 20px;
+    padding: 1px 10px 0 26px;
+    white-space: nowrap;
+    width: max-content;
+    min-width: 100%;
+} */
+/* .theme-dark {
+    --opacity-translucency: 1;
+} */
+/* .outline {
+    font-size: 18px;
+}
+/*p{
+    font-size: 18px;
+}*/
+/* .setting-item-description {
+    color: var(--text-muted);
+    font-size: 18px;
+} */
+
+/* .markdown-preview-view img,
+.markdown-preview-view video {
+
+    max-width: min(100%, 800px) !important;
+
+    margin-left: auto;
+
+    margin-right: auto;
+
+    display: table-cell;
+
+    outline: 0px solid var(--text-accent);
+} */
+
+/* img {
+    border-radius: 4px;
+    box-shadow: 0 1px 3px rgb(0 0 0 / 12%), 0 1px 2px rgb(0 0 0 / 24%);
+    background-color: var(--background-secondary);
+    max-height: 400px !important;
+    left: 50%;
+    position: relative;
+    transform: translateX(-50%);
+} */
+
+/* .markdown-preview-view img,
+.markdown-preview-view video {
+    max-height: 400px !important;
+    left: 25%;
+    position: relative;
+    transform: translateX(-50%);
+} */
+
+table {
+    display: table;
+    overflow-x: auto;
+    /* border-collapse: collapse; */
+    margin: 1rem auto;
+}
+
+.admonition-right .admonition-center {
+    margin: 0;
+    padding: 0;
+}
+
+.admonition-right>div:nth-child(2) {
+    float: right;
+}
+
+.admonition-center>div:nth-child(2) {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+em>del,
+.cm-em.cm-strikethrough:not(.cm-active > span) {
+    border-bottom: 2px dashed rgb(67, 157, 237);
+    font-style: normal;
+    text-decoration: none;
+    color: #00000000;
+    transition: color 0.3s;
+}
+
+.cm-active>.cm-em.cm-strikethrough {
+    border-bottom: 2px dashed rgb(67, 157, 237);
+    font-style: normal;
+    text-decoration: none;
+}
+
+em>del:hover,
+.cm-em.cm-strikethrough:hover:not(.cm-active > span) {
+    color: #222;
+    transition: color 0.3s;
+}
+
+/* 加粗样式 */
+.cm-strong,
+strong {
+    color: #b76b01 !important;
+    font-weight: 700 !important;
+}
+
+/* 倾斜样式 */
+.cm-em {
+    color: #a626a4 !important;
+    font-style: italic;
+}
+
+/* 删除样式 */
+.cm-strikethrough {
+    color: #e45649;
+}
+
+.plyr button {
+    background-color: black !important;
+}
+
+
+.mermaid {
+    max-width: 100%;
+    height: auto;
+}
+
+div.mermaid {
+    margin-left: 0 !important;
+    text-align: center;
+    resize: both;
+    overflow: auto;
+    margin-bottom: 2px;
+    position: relative;
+    max-height: 600px;
+    max-width: 100%;
+}
+
+div.mermaid::after {
+    content: '';
+    display: block;
+    width: 10px;
+    height: 10px;
+    background-color: yellowgreen;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+
+/* 图片居中 */
+img {
+    display: block !important;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+.markdown-source-view.mod-cm6 .cm-content>* {
+    margin: auto !important;
+}

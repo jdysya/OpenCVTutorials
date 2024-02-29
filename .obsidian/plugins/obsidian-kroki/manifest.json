@@ -1,0 +1,10 @@
+{
+	"id": "obsidian-kroki-enhance",
+	"name": "Kroki",
+	"version": "1.2.3",
+	"minAppVersion": "0.13.25",
+	"description": "Render Kroki Diagrams",
+	"author": "jdysya",
+	"authorUrl": "https://github.com/jdysya/obsidian-kroki/",
+	"isDesktopOnly": false
+}

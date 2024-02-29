@@ -1,0 +1,14 @@
+{
+  "baseFontSize": 16,
+  "theme": "moonstone",
+  "translucency": true,
+  "cssTheme": "Things",
+  "interfaceFontFamily": "LXGW WenKai Screen,Times New Roman",
+  "textFontFamily": "LXGW WenKai Screen",
+  "enabledCssSnippets": [
+    "mycss"
+  ],
+  "monospaceFontFamily": "Menlo",
+  "baseFontSizeAction": false,
+  "accentColor": ""
+}

@@ -1,0 +1,25 @@
+{
+  "settings": {
+    "migrated": true,
+    "iconPacksPath": ".obsidian/plugins/obsidian-icon-folder/icons",
+    "fontSize": 16,
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "FabSquareFontAwesomeStroke",
+      "FabStudiovinari",
+      "FabFacebook"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 2,
+      "right": 2,
+      "bottom": 2,
+      "left": 2
+    },
+    "emojiStyle": "none",
+    "iconInTabsEnabled": false
+  },
+  "学习/高数": "FabFacebook",
+  "个人空间": "FabSquareFontAwesomeStroke"
+}

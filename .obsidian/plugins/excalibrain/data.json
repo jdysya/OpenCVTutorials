@@ -1,0 +1,211 @@
+{
+  "excalibrainFilepath": "excalibrain.md",
+  "indexUpdateInterval": 5000,
+  "hierarchy": {
+    "exclusions": [
+      "excalidraw-border-color",
+      "excalidraw-css",
+      "excalidraw-default-mode",
+      "excalidraw-export-dark",
+      "excalidraw-export-pngscale",
+      "excalidraw-export-svgpadding",
+      "excalidraw-export-transparent",
+      "excalidraw-font",
+      "excalidraw-font-color",
+      "excalidraw-link-brackets",
+      "excalidraw-link-prefix",
+      "excalidraw-linkbutton-opacity",
+      "excalidraw-onload-script",
+      "excalidraw-plugin",
+      "excalidraw-url-prefix",
+      "kanban-plugin"
+    ],
+    "parents": [
+      "Parent",
+      "Parents",
+      "u",
+      "up"
+    ],
+    "children": [
+      "Child",
+      "Children",
+      "d",
+      "down"
+    ],
+    "friends": [
+      "Friend",
+      "Friends",
+      "j",
+      "Jump",
+      "Jumps"
+    ]
+  },
+  "inferAllLinksAsFriends": false,
+  "inverseInfer": false,
+  "renderAlias": true,
+  "nodeTitleScript": "",
+  "backgroundColor": "#0c3e6aff",
+  "excludeFilepaths": [],
+  "showInferredNodes": true,
+  "showAttachments": true,
+  "showVirtualNodes": true,
+  "showFolderNodes": true,
+  "showTagNodes": true,
+  "showPageNodes": true,
+  "showNeighborCount": true,
+  "showFullTagName": false,
+  "maxItemCount": 30,
+  "renderSiblings": true,
+  "baseNodeStyle": {
+    "prefix": "",
+    "backgroundColor": "#00000066",
+    "fillStyle": "solid",
+    "textColor": "#ffffffff",
+    "borderColor": "#00000000",
+    "fontSize": 20,
+    "fontFamily": 3,
+    "maxLabelLength": 30,
+    "roughness": 0,
+    "strokeShaprness": "round",
+    "strokeWidth": 1,
+    "strokeStyle": "solid",
+    "padding": 10,
+    "gateRadius": 5,
+    "gateOffset": 15,
+    "gateStrokeColor": "#ffffffff",
+    "gateBackgroundColor": "#ffffffff",
+    "gateFillStyle": "solid"
+  },
+  "centralNodeStyle": {
+    "fontSize": 30,
+    "backgroundColor": "#C49A13FF",
+    "textColor": "#000000ff"
+  },
+  "inferredNodeStyle": {
+    "backgroundColor": "#000005b3",
+    "textColor": "#95c7f3ff"
+  },
+  "virtualNodeStyle": {
+    "backgroundColor": "#ff000066",
+    "fillStyle": "hachure",
+    "textColor": "#ffffffff"
+  },
+  "siblingNodeStyle": {
+    "fontSize": 15
+  },
+  "attachmentNodeStyle": {
+    "prefix": "📎 "
+  },
+  "folderNodeStyle": {
+    "prefix": "📂 ",
+    "strokeShaprness": "sharp",
+    "borderColor": "#ffd700ff",
+    "textColor": "#ffd700ff"
+  },
+  "tagNodeStyle": {
+    "prefix": "#",
+    "strokeShaprness": "sharp",
+    "borderColor": "#4682b4ff",
+    "textColor": "#4682b4ff"
+  },
+  "tagNodeStyles": {},
+  "tagStyleList": [],
+  "baseLinkStyle": {
+    "strokeColor": "#696969FF",
+    "strokeWidth": 1,
+    "strokeStyle": "solid",
+    "roughness": 0,
+    "startArrowHead": "none",
+    "endArrowHead": "none",
+    "showLabel": false,
+    "fontSize": 10,
+    "fontFamily": 3,
+    "textColor": "#ffffffff"
+  },
+  "inferredLinkStyle": {
+    "strokeStyle": "dashed"
+  },
+  "folderLinkStyle": {
+    "strokeColor": "#ffd700ff"
+  },
+  "tagLinkStyle": {
+    "strokeColor": "#4682b4ff"
+  },
+  "hierarchyLinkStyles": {
+    "Parent": {},
+    "Parents": {},
+    "u": {},
+    "up": {},
+    "Child": {},
+    "Children": {},
+    "d": {},
+    "down": {},
+    "Friend": {},
+    "Friends": {},
+    "j": {},
+    "Jump": {},
+    "Jumps": {}
+  },
+  "navigationHistory": [
+    "学习/操作系统/第三章 内存管理/**连续分配方式**.md",
+    "学习/操作系统/第三章 内存管理/暂停换出.md",
+    "学习/操作系统/第二章 进程管理.md",
+    "学习/操作系统/第三章 内存管理/未命名.md",
+    "学习/操作系统/第三章 内存管理/3.1.3 覆盖与交换.md",
+    "学习/操作系统/第三章 内存管理/连续分配管理方式.md",
+    "Users/xiangyu/Downloads/我国移动互联网发展史话_陆峰.pdf.md",
+    "学习/操作系统/第一章 计算机系统概述.md",
+    "个人空间/tor浏览器/一些网址.md",
+    "folder:个人空间/tor浏览器",
+    "folder:个人空间/docker",
+    "个人空间/网页分类.md",
+    "个人空间/各种bug/宝塔/部署站点时提示open_basedir restriction in effect.md",
+    "Excalidraw/draw/ExcaliBrain Snapshot - 基础学习路线.excalidraw.md",
+    "个人空间/新媒体研发部/基础学习路线.md",
+    "orphaned files output.md",
+    "学习/操作系统/第三章 内存管理/3.1.1 内存的基础知识.md",
+    "学习/操作系统/进程、线程、协程和管程的区别.md",
+    "个人空间/正则表达式的妙用.md",
+    "个人空间/一些markdown语法.md",
+    "学习/openGL/mac上环境配置.md",
+    "学习/openGL/实验报告.md",
+    "学习/openGL/入门/opengl.md",
+    "学习/openGL/入门/1. opengl.md",
+    "学习/openGL/入门/未命名.md",
+    "学习/openGL/笔记.md",
+    "学习/openGL/入门/2.创建窗口.md",
+    "学习/openGL/入门/测试.md",
+    "学习/openGL/入门/顶点.md",
+    "学习/openGL/入门/glVertexAttribPointer函数.md",
+    "学习/openGL/入门/顶点缓冲对象.md",
+    "学习/openGL/入门/3.创建三角形.md",
+    "个人空间/markdown/未命名.md",
+    "个人空间/markdown/plantuml.md",
+    "学习/移动开发/原生移动应用与 web 移动应用的比较.md",
+    "学习/移动开发/glide.md",
+    "学习/移动开发/原生移动应用与Web移动应用的比较【参考】.md",
+    "学习/移动开发/未命名.md",
+    "学习/移动开发/一些资料.md",
+    "个人空间/markdown/mermaid.md",
+    "学习/移动开发/实验 2.md",
+    "学习/操作系统/银行家算法.md",
+    "folder:个人空间",
+    "folder:学习",
+    "folder:学习/操作系统",
+    "folder:学习/操作系统/第三章 内存管理",
+    "学习/操作系统/第三章 内存管理/3.1.4连续分配管理方式.md",
+    "个人空间/一些开源库（工具）的使用/1history.md",
+    "个人空间/空间.md",
+    "folder:考研/线代",
+    "考研/线代/1. 逐一交换行与列.md"
+  ],
+  "allowOntologySuggester": true,
+  "ontologySuggesterParentTrigger": "::p",
+  "ontologySuggesterChildTrigger": "::c",
+  "ontologySuggesterFriendTrigger": "::f",
+  "ontologySuggesterTrigger": ":::",
+  "ontologySuggesterMidSentenceTrigger": "(",
+  "boldFields": false,
+  "allowAutozoom": true,
+  "allowAutofocuOnSearch": true
+}

@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "e9d83dec5f664c10",
+    "type": "split",
+    "children": [
+      {
+        "id": "e2f0a4af822e3a60",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "62398cc05376b322",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3decb3823caaacef",
+    "type": "split",
+    "children": [
+      {
+        "id": "5220c588d10cd0b8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e8b849b2e12d40fd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d68a4f4780b55ca5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c00ba5961b9895b5",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "73a30c4a5c8998a1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:软考",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "16820b09294fbd3c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 220.50271224975586
+  },
+  "right": {
+    "id": "b452cc448856392e",
+    "type": "split",
+    "children": [
+      {
+        "id": "0cfe3b434e5be53a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0b8b1b5b19fe0ce3",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "e180712b409c0543",
+            "type": "leaf",
+            "state": {
+              "type": "quiet-outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "e34df540c2f1d501",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "ca85fbf880190634",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "f652eb12aa510459",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "82a22f18af0d071e",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "612f7e46f087522c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "b28f5a7189571738",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "76fadfe4e84cdc6d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "df0a01c64b39a52b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "979c3fed6bb9995b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "639b8fc717b1dcf9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 351.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "templater-obsidian:Templater": false,
+      "notion-like-tables:Create new loom": false,
+      "remotely-save:Remotely Save": false,
+      "mermaid-tools:Open Mermaid Toolbar": false,
+      "juggl:Juggl global graph": false
+    }
+  },
+  "active": "c00ba5961b9895b5",
+  "lastOpenFiles": [
+    "language/linux/终端命令.md",
+    "language/linux/快捷键.md",
+    "bookmarks/README.md",
+    "finance/宏观经济学/失业.md",
+    "slides.md",
+    "language/C/类和对象.md",
+    "note/英语/单词.md",
+    "note/软考/设计模式.md",
+    "note/软考/UML.md",
+    "language/README.md",
+    "bookmarks",
+    "blog/未命名",
+    "blog",
+    "normal/图表使用.md",
+    "normal/关于北部湾的调研报告.md",
+    "note/高数/数列与极限.md",
+    "language/Python/面向对象.md",
+    "language/Python/运算符.md",
+    "language/Python/推导式.md",
+    "language/Python/基本数据类型.md",
+    "language/Python/函数.md",
+    "language/Python",
+    "note/操作系统/进程与线程/1.进程与线程.md",
+    "frame/jQuery/README.md",
+    "frame/README.md",
+    "language/css/README.md",
+    "note/高数/一元函数积分学/反常积分.md",
+    "note/高数/常用公式结论.md",
+    "note/操作系统/测试.md",
+    "note/数据结构/图/1.图的基本概念.md",
+    "language/linux",
+    "language/C",
+    "frame",
+    "language",
+    "note/计组/输入输出系统",
+    "note/计组/总线",
+    "考研/高数/attachments/e7caf46ced92ad22ea287993f67e5577.png",
+    "考研/高数/attachments/7696522ede2cde539ec81fc04ecc3d2a.png",
+    "考研/高数/attachments/9379e8fb620e9bba08fe2cf1cbe8fb41.png",
+    "考研/高数/attachments/ea68862d62ca78749e54e9a60ac747b0.png",
+    "考研/高数/attachments/88ba972399de250ba5a7380eab79ffd9.png",
+    "考研/高数/attachments/06d94bae5e327059901b817057f0febe.png",
+    "考研/高数/attachments/e8e3669379640153d29388b48911d5f0.png",
+    "考研/高数/attachments/c8576bf3f043171d8202fd881b878e29.png",
+    "考研/高数/attachments/373f5b0800465123786dd3e4ce8080d9.png",
+    "考研/高数/attachments/8d272f10c1536b11d1d480dee105f13d.png"
+  ]
+}

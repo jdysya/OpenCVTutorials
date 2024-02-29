@@ -1,0 +1,10 @@
+{
+  "style": "inline",
+  "min_depth": 1,
+  "max_depth": 6,
+  "externalStyle": "None",
+  "supportAllMatchers": true,
+  "allow_inconsistent_headings": true,
+  "varied_style": true,
+  "title": "# 目录"
+}
