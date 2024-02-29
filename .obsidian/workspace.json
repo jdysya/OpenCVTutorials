@@ -11,8 +11,11 @@
             "id": "62398cc05376b322",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "diff-view",
+              "state": {
+                "file": ".DS_Store",
+                "staged": false
+              }
             }
           }
         ]
@@ -80,8 +83,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -209,8 +211,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 351.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,8 +231,10 @@
       "juggl:Juggl global graph": false
     }
   },
-  "active": "c00ba5961b9895b5",
+  "active": "62398cc05376b322",
   "lastOpenFiles": [
+    "Sixth/5_2_哈里斯角检测.md",
+    "Seventh/6_2_Meanshift和Camshift.md",
     "language/linux/终端命令.md",
     "language/linux/快捷键.md",
     "bookmarks/README.md",
@@ -260,8 +263,6 @@
     "language/css/README.md",
     "note/高数/一元函数积分学/反常积分.md",
     "note/高数/常用公式结论.md",
-    "note/操作系统/测试.md",
-    "note/数据结构/图/1.图的基本概念.md",
     "language/linux",
     "language/C",
     "frame",

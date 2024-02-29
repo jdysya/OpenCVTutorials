@@ -1,5 +1,14 @@
 {
-  "recentFiles": [],
+  "recentFiles": [
+    {
+      "basename": "5_2_哈里斯角检测",
+      "path": "Sixth/5_2_哈里斯角检测.md"
+    },
+    {
+      "basename": "6_2_Meanshift和Camshift",
+      "path": "Seventh/6_2_Meanshift和Camshift.md"
+    }
+  ],
   "omittedPaths": [
     ""
   ],
